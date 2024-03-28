@@ -1,3 +1,9 @@
+body {
+
+}
+h1 {
+    text-align: left;
+}
 
 nav ul {
     position: fixed;

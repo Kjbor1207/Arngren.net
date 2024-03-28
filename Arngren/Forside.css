@@ -1,0 +1,33 @@
+
+nav ul {
+    position: fixed;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    list-style-type: none;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 2%;
+    overflow: hidden;
+    width: 100%;
+
+}
+nav a {
+    float: left;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10%;
+    font-size: 2vw;
+    padding: 25px;
+    font-family: SansSerif;
+    font-size: 100%;
+    letter-spacing: 2px;
+}
+nav p {
+    margin-top: 10%;
+    font-size: 2vw;
+}
+nav img {
+    width: 30%;
+    margin-top: 3%;
+}

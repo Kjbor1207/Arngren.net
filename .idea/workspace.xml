@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0558968b-8c4e-4665-8197-531e31bb7902" name="Changes" comment="Added horizontal and vertical navbar">
+      <change afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/Arngren/Bilder/flyArngren.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/Arngren/Kontakt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oblig2.Visualisering/Arngren/Forside.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/Arngren/Forside.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oblig2.Visualisering/Arngren/Forside.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Oblig2.Visualisering/Arngren/Forside.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Oblig2.Visualisering" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eJncTwNdP2qFfpoMg7Ux48vbHd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Kjeti/IdeaProjects/Oblig2.Visualisering/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kjeti\IdeaProjects\Oblig2.Visualisering\Arngren\Bilder" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0558968b-8c4e-4665-8197-531e31bb7902" name="Changes" comment="" />
+      <created>1711631631756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711631631756</updated>
+      <workItem from="1711631632757" duration="22845000" />
+      <workItem from="1711741683041" duration="1663000" />
+    </task>
+    <task id="LOCAL−00001" summary="Lagt til repository og forside for Arngren.net">
+      <option name="closed" value="true" />
+      <created>1711634746075</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1711634746075</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Begynnelse på nav bar og image, pluss css.">
+      <option name="closed" value="true" />
+      <created>1711640167398</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1711640167398</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Added horizontal and vertical navbar">
+      <option name="closed" value="true" />
+      <created>1711649234254</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1711649234254</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lagt til repository og forside for Arngren.net" />
+    <MESSAGE value="Begynnelse på nav bar og image, pluss css." />
+    <MESSAGE value="Added horizontal and vertical navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added horizontal and vertical navbar" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Oblig2.Visualisering/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
